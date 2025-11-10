@@ -1,3 +1,3 @@
 # coder-demo
 This is my first Git Repository.<br>
-Author - Shivam Prajapati
+Author - Shivam Prajapati (edg.tech)
